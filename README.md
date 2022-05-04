@@ -12,9 +12,8 @@ I specialize in responsive, mobile-friendly websites, creating custom designs as
 *   🚀  I'm currently working on [File Sharing App](http://ushare-awesh.herokuapp.com)
 *   🧠  I'm learning React Js
 *   🤝  I'm open to collaborating on Web Based Projects
-*   ⚡  Finding freelancing work<a href="https://www.twitter.com/AweshChoudhary2" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/AweshChoudhary2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+*   ⚡  Finding freelancing work 
+### Skills<p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -32,12 +31,7 @@ I specialize in responsive, mobile-friendly websites, creating custom designs as
                                 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
                                 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
+                    </p>### Socials<p align="left">
                           
                       <a href="https://www.behance.com/aweshchoudhary" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
                           
