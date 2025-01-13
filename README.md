@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/aweshchoudhary2" target="blank"><img src="https://img.shields.io/twitter/follow/aweshchoudhary2?logo=twitter&style=for-the-badge" alt="aweshchoudhary2" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Backend Stellar Aesthetics](https://github.com/aweshchoudhary/sales-stellaraesthetics-frontend)
-
-- 🌱 I’m currently learning **Dart, Flutter**
-
-- 🔭 I’m currently working on [Sales Frontend Stellar Aesthetics](https://github.com/aweshchoudhary/sales-stellaraesthetics-backend)
-
 - 💬 Ask me about **react, native, javascript**
 
-- 📫 How to reach me **aweshchoudhary7@gmail.com**
+- 📫 How to reach me **business.aweshchoudhary@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
